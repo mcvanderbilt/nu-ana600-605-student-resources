@@ -100,6 +100,9 @@ Include this at the top of any file you modify:
 ---
 
 ## 🗂️ Repository Structure
+## Repository Structure
+
+```text
 /
 ├── LICENSE
 ├── NOTICE
