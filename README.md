@@ -130,6 +130,7 @@ Include this at the top of any file you modify:
     ├── practice_problems/       # Additional exercises for skill-building
     ├── mini_projects/           # Small, optional applied analytics tasks
     └── ...                      # Additional practice materials
+```
 
 ---
 
