@@ -104,10 +104,29 @@ Include this at the top of any file you modify:
 ├── LICENSE
 ├── NOTICE
 ├── README.md
-├── data/              # Additional datasets for exploration
-├── examples/          # Instructor-provided example scripts
-├── templates/         # Documentation and workflow templates
-└── exercises/         # Optional practice problems and guided labs
+│
+├── data/
+│   ├── README.md                # Descriptions of datasets and their intended use
+│   ├── sample_data.csv          # Example datasets for practice
+│   └── ...                      # Additional datasets for exploration
+│
+├── examples/
+│   ├── analytics_workflows/     # Instructor-provided workflow examples
+│   ├── visualization/           # Example plots, charts, and visualizations
+│   ├── sql_queries/             # Example SQL patterns and best practices
+│   └── ...                      # Additional instructional examples
+│
+├── templates/
+│   ├── analysis_template.md     # Template for structuring analytics writeups
+│   ├── documentation_template.md# Template for documenting code and workflows
+│   ├── project_structure/       # Example folder structures for assignments
+│   └── ...                      # Additional templates for student use
+│
+└── exercises/
+    ├── guided_labs/             # Optional guided practice labs
+    ├── practice_problems/       # Additional exercises for skill-building
+    ├── mini_projects/           # Small, optional applied analytics tasks
+    └── ...                      # Additional practice materials
 
 ---
 
