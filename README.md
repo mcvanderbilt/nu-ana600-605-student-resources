@@ -117,7 +117,7 @@ Include this at the top of any file you modify:
 ├── announcements
 │   ├── approved-r-packages.html # Listing of allowed R packages
 │   ├── approved-r-packages.md   # Listing of allowed R packages
-│   └── ...                      # Additional datasets for exploration
+│   └── ...                      # Additional course announcements
 │
 ├── data/
 │   ├── README.md                # Descriptions of datasets and their intended use
@@ -137,10 +137,13 @@ Include this at the top of any file you modify:
 │   └── ...                      # Additional templates for student use
 │
 └── exercises/
-    ├── guided_labs/             # Optional guided practice labs
-    ├── practice_problems/       # Additional exercises for skill-building
-    ├── mini_projects/           # Small, optional applied analytics tasks
-    └── ...                      # Additional practice materials
+|   ├── guided_labs/             # Optional guided practice labs
+|   ├── practice_problems/       # Additional exercises for skill-building
+|   ├── mini_projects/           # Small, optional applied analytics tasks
+|   └── ...                      # Additional practice materials
+|
+└── governance/
+    └── ...                      # Governance files
 ```
 
 ## 📬 Questions?
