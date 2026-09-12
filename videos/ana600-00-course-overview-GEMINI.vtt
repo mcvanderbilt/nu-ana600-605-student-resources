@@ -1,0 +1,67 @@
+WEBVTT
+
+00:00:00.390 --> 00:00:04.100
+Data is modern industry's
+most powerful asset,
+
+00:00:04.100 --> 00:00:07.030
+but raw numbers are useless
+without the skills to decode them.
+
+00:00:07.590 --> 00:00:10.700
+National University's Fundamentals
+of analytics course
+
+00:00:10.700 --> 00:00:13.590
+is your step-by-step gateway
+to building those solutions.
+
+00:00:14.150 --> 00:00:16.500
+It starts with structured data,
+
+00:00:16.500 --> 00:00:19.230
+highly organized tabular information
+in rows and columns.
+
+00:00:19.750 --> 00:00:22.500
+This requires completely
+different handling
+
+00:00:22.500 --> 00:00:25.150
+than the chaotic, unformatted scope
+of unstructured or big data.
+
+00:00:25.660 --> 00:00:28.780
+Once your data is structured,
+you need to understand its shape.
+
+00:00:29.220 --> 00:00:33.020
+We measure its central tendency
+by locating the mean, median and mode.
+
+00:00:33.540 --> 00:00:37.060
+Then we measure how far that data
+spreads to find its standard deviation.
+
+00:00:37.620 --> 00:00:41.220
+But professional data science isn't
+just about looking at single variables.
+
+00:00:41.740 --> 00:00:46.860
+By analyzing covariation, we use simple
+linear regression to predict interactions.
+
+00:00:47.460 --> 00:00:51.000
+Next, you bring this math to life
+using industry-standard tools
+
+00:00:51.000 --> 00:00:53.500
+like R programming and ggplot2.
+
+00:00:53.500 --> 00:00:57.500
+By mastering how to structure, measure,
+model and visualize data,
+
+00:00:57.500 --> 00:01:03.140
+you build the analytical toolkit
+required to solve complex problems.
