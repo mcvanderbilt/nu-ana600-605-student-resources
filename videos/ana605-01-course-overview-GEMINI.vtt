@@ -1,0 +1,76 @@
+WEBVTT
+
+00:00:00.250 --> 00:00:05.490
+Anyone can run code to get a fast answer,
+but true data science requires knowing what to ask.
+
+00:00:06.330 --> 00:00:11.090
+National University's Ana 6:05 Analytic Models course
+bridges that gap.
+
+00:00:11.650 --> 00:00:13.650
+Here are four vital tools
+you'll master.
+
+00:00:14.370 --> 00:00:16.490
+First up, multivariable regression.
+
+00:00:17.050 --> 00:00:20.970
+Real-world data is messy, full of confounding
+factors that blur the truth.
+
+00:00:21.430 --> 00:00:26.630
+This tool mathematically controls for that noise,
+isolating the true effect of each individual variable.
+
+00:00:27.550 --> 00:00:28.870
+Next, bootstrapping.
+
+00:00:29.270 --> 00:00:33.670
+If you have a limited data set,
+this technique repeatedly resamples your observed data.
+
+00:00:34.150 --> 00:00:40.550
+This builds a robust distribution,
+letting you generate highly reliable predictions
+
+00:00:40.550 --> 00:00:40.550
+without needing massive amounts of information.
+
+00:00:41.470 --> 00:00:43.150
+Third, confidence intervals.
+
+00:00:43.790 --> 00:00:49.430
+Instead of offering one definitive point estimate,
+they provide a calculated range of plausible values.
+
+00:00:49.990 --> 00:00:56.190
+This mathematically quantifies exactly
+how much uncertainty exists,
+
+00:00:56.190 --> 00:00:56.190
+giving business leaders the confidence
+to make safe decisions.
+
+00:00:57.190 --> 00:00:59.070
+Finally, transparent communication.
+
+00:00:59.710 --> 00:01:03.110
+A statistical model is useless
+if your stakeholders cannot understand it.
+
+00:01:03.590 --> 00:01:08.110
+You will learn to translate raw outputs
+like residual testing
+
+00:01:08.110 --> 00:01:12.510
+into clear, actionable, and peer-reviewed
+intelligence.
+
+00:01:12.510 --> 00:01:17.870
+By combining advanced statistical modeling
+with transparent communication,
+
+00:01:17.870 --> 00:01:17.870
+you evolve from simply running code
+into a strategic data leader.
